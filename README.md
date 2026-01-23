@@ -1,1 +1,1 @@
-# HerramientasDeAdministraci-n-ManagerYHostManager
+# Herramientas de administración — Manager y Host Manager
